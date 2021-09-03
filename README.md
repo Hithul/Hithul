@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hithul kannan</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 ![IIOT](https://www.digitalvidya.com/wp-content/uploads/2017/04/data-science-1.jpg)
 
